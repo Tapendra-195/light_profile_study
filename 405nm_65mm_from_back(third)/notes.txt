@@ -1,0 +1,4 @@
+397 is same as(same position) 396, so removed.
+387-402 are spot images
+406 background
+reused target for first
