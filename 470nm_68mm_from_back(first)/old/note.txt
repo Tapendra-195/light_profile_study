@@ -1,0 +1,7 @@
+first G0350337
+last G0350352
+Deleted a repeated image 339 and 340 are same image.
+
+It checks out. 14 moves, and 1 image was taken before moving. Total 15 images
+
+Led push against dome 7.1 cm from back.
