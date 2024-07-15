@@ -1,0 +1,13 @@
+G0410518_dis_72.5_cos(theta)_and_weights.txt
+G0410519_dis_67.5_cos(theta)_and_weights.txt
+G0410520_dis_62.5_cos(theta)_and_weights.txt
+G0410521_dis_57.5_cos(theta)_and_weights.txt
+G0410522_dis_52.5_cos(theta)_and_weights.txt
+G0410523_dis_47.5_cos(theta)_and_weights.txt
+G0410524_dis_42.5_cos(theta)_and_weights.txt
+G0410525_dis_37.5_cos(theta)_and_weights.txt
+G0410526_dis_32.5_cos(theta)_and_weights.txt
+G0410527_dis_27.5_cos(theta)_and_weights.txt
+G0410528_dis_22.5_cos(theta)_and_weights.txt
+G0410529_dis_17.5_cos(theta)_and_weights.txt
+G0410530_dis_12.5_cos(theta)_and_weights.txt

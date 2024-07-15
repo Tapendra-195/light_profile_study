@@ -1,0 +1,2 @@
+top_left	1014	766
+bottom_right	1765	1375

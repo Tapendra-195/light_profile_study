@@ -1,0 +1,5 @@
+516 and 517 removed, scan not started yet.
+533 and 534 discarded, looks like the target hit the dome.
+background = 535
+target = 538(wasn't visible so new target was taken G0430544.GPR)
+
