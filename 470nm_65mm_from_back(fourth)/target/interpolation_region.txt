@@ -1,0 +1,2 @@
+top_left	1121	843
+bottom_right	1631	1303
