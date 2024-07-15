@@ -1,0 +1,4 @@
+/home/tapendra/raw_processing/allphotos/Image_final/Code/CMakeFiles/rebuild_cache.dir
+/home/tapendra/raw_processing/allphotos/Image_final/Code/CMakeFiles/edit_cache.dir
+/home/tapendra/raw_processing/allphotos/Image_final/Code/CMakeFiles/augment_data.dir
+/home/tapendra/raw_processing/allphotos/Image_final/Code/CMakeFiles/label_interpolation_data.dir

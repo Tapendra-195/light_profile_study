@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/augment_data.dir/augment.cpp.o  -o augment_data 
